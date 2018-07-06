@@ -1,0 +1,1 @@
+# CampCoin-Miner
