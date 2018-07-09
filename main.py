@@ -1,6 +1,5 @@
 import datetime as date
 from block import Block, nextBlock
-import random
 import campcoin_api as campcoin
 import simplejson as json
 import requests
